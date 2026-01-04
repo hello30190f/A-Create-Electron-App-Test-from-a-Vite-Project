@@ -1,19 +1,22 @@
 # A-Create-Electron-App-Test-from-a-Vite-Project
 This is my example of electorn app from a vite project that does not include electron.
 
-# How to build
+# How to build and run
 ```
 cp -r ./src/* ./createElectornAppTest/src/renderer/src/
 cd createElectornAppTest
 npm run build:linux
 # npm run build:win
 # npm run build:mac
+
+./dist/createelectornapptest-1.0.0.AppImage
 ```
 ![ElectronAppRun](./readme/ElectronAppRun.png)
 
 
 # My blog post
-
+- Vite を使って作ったものを Electron アプリとしてバイナリ化する | nyanmo main blog   
+https://www.nyanmo.info/posts/webdevelop/electron/createelectronappbinraryfromaviteproject/ (2026年1月4日) 
 
 
 # Ref
