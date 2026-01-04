@@ -1,3 +1,6 @@
+# THIS IS DEFAULT README THAT WAS CREATED WHEN I DID "npm create @quick-start/electron@latest". 
+I will keep it as is below.
+
 # createelectornapptest
 
 An Electron application with React and TypeScript
